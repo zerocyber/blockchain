@@ -106,7 +106,7 @@ abstract contract Ownable is Context {
 
 
 /**
- * DAOPASS Event Lottery contract V1
+ * Event Lottery contract
  */
 contract EventLottery is Ownable {
 
